@@ -1,0 +1,2 @@
+language = "bash"
+run = "echo This is on a separate program, and does not run using repl.it. Please download this code, and run the game."
